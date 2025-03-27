@@ -1,0 +1,3 @@
+# ESLint ignores files with following patterns
+# (add/remove patterns as needed)
+node_modules
